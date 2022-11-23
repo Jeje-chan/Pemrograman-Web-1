@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(221, 160, 221);
+}
+#header {
+    text-align: center;
+    background-color: rgba(140, 197, 235, 0.514);
+    color: black;
+}
+blockquote {
+    text-align: center;
+    background-color: rgb(161, 191, 201);
+    border: 50px;
+    border-radius: 10px;
+    border-style: solid black;
+    margin: 1% 0 5% 0;
+    padding: 5px;
+}
+#soekarno {
+    text-decoration: underline;
+    font-weight: bolder;
+}
+p {
+    text-align: justify;
+}
+.gambar {
+    text-align: center;
+}
+.koleksi {
+    text-align: center;
+    background-color: darkviolet;
+}
+div img {
+    width: 20%;
+}
+.jawa {
+    color: darkcyan;
+    font-size: 58px;
+    font-weight: bold;
+}
+.promo {
+    text-align: center;
+}
+.promo ol {
+    list-style: none;
+    background-color: azure;
+    width: max-content;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    font-weight: bold;
+    margin: 5px auto;
+    padding: 10px;
+}
